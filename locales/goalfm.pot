@@ -1,0 +1,127 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-11 12:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: GoalFM/game.py:57
+msgid "Using"
+msgstr ""
+
+#: GoalFM/game.py:60
+msgid "Config file"
+msgstr ""
+
+#: GoalFM/game.py:60
+msgid "Loading sane defaults."
+msgstr ""
+
+#: GoalFM/game.py:197
+msgid "Spieler"
+msgstr ""
+
+#: GoalFM/game.py:232 GoalFM/game.py:249 GoalFM/game.py:250 GoalFM/game.py:402
+msgid "Close"
+msgstr ""
+
+#: GoalFM/game.py:236
+msgid "Team"
+msgstr ""
+
+#: GoalFM/game.py:271
+msgid "Videomode"
+msgstr ""
+
+#: GoalFM/game.py:271
+msgid "chosen"
+msgstr ""
+
+#: GoalFM/game.py:293 GoalFM/game.py:447
+msgid "Season"
+msgstr ""
+
+#: GoalFM/game.py:293 GoalFM/game.py:447
+msgid "Quarter"
+msgstr ""
+
+#: GoalFM/game.py:325
+msgid "Fussball-Manager"
+msgstr ""
+
+#: GoalFM/game.py:397 GoalFM/game.py:411
+msgid "About"
+msgstr ""
+
+#: GoalFM/game.py:406
+msgid "Welcome"
+msgstr ""
+
+#: GoalFM/game.py:409
+msgid "Play"
+msgstr ""
+
+#: GoalFM/game.py:412
+msgid "Quit"
+msgstr ""
+
+#: GoalFM/game.py:417
+msgid "Difficulty"
+msgstr ""
+
+#: GoalFM/game.py:417
+msgid "Hard"
+msgstr ""
+
+#: GoalFM/game.py:417
+msgid "Easy"
+msgstr ""
+
+#: GoalFM/game.py:418
+msgid "Resolution"
+msgstr ""
+
+#: GoalFM/game.py:419
+msgid "Audio"
+msgstr ""
+
+#: GoalFM/game.py:419
+msgid "On"
+msgstr ""
+
+#: GoalFM/game.py:419
+msgid "Off"
+msgstr ""
+
+#: GoalFM/game.py:447
+msgid "Player"
+msgstr ""
+
+#: GoalFM/game.py:453
+msgid "Cash"
+msgstr ""
+
+#: GoalFM/game.py:535 GoalFM/game.py:536 GoalFM/game.py:538 GoalFM/game.py:539
+#: GoalFM/game.py:541 GoalFM/game.py:543 GoalFM/game.py:544 GoalFM/game.py:545
+msgid "Placeholder"
+msgstr ""
+
+#: GoalFM/game.py:563
+msgid "Game stopping..."
+msgstr ""
+
+#: GoalFM/intro.py:49
+msgid "presents"
+msgstr ""

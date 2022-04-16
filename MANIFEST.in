@@ -1,0 +1,9 @@
+#recursive-include GoalFM *
+include *.txt
+#include assets *.png
+#include assets *.desktop
+recursive-include assets *.desktop *.png
+recursive-include locales *
+recursive-include flags *.png
+recursive-include logos *
+recursive-include music *

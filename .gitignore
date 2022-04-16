@@ -1,0 +1,8 @@
+s
+.vscode/*
+import/*
+GoalFM/__pycache__/*
+dist/*
+database/*
+goalfm/*
+build/*

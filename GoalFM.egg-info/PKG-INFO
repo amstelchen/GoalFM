@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: GoalFM
+Version: 1.0.6
+Summary: foo
+Home-page: http://github.com/amstelchen/goal
+Author: Michael John
+Author-email: michael.john@gmail.com
+License: LICENSE.txt
+Platform: UNKNOWN
+License-File: LICENSE.txt
+
+GOAL
+A managereal game written in Python.
+by Michael John 2022
+
+Uses 
+Money icons created by Freepik - Flaticon
+https://www.flaticon.com/free-icons/money
+and
+Music by Eric Matyas www.soundimage.org
+https://soundimage.org/sports
+

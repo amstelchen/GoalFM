@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Name=GoalFM
+GenericName=A managerial sports game written in Python.
+Type=Application
+Comment=A managerial sports game written in Python
+Comment[ru]=Управленческая спортивная игра, написанная на Python
+Comment[fr]=Un jeu de sport managérial écrit en Python
+Comment[de]=Ein Manager-Sportspiel, geschrieben in Python
+Icon=GoalFM
+Exec=python -m /home/mic/GoalFM/GoalFM
+Terminal=false
+StartupNotify=false
+StartupWMClass=GoalFM
+Keywords=game;
+Categories=Game;
+Path=/home/mic/GoalFM
